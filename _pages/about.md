@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,10 @@ redirect_from:
 
 Employment
 ======
-2022-Assistant Professor (Maître de Conférences), Université Paris-Dauphine, France
 
-2024  Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
+2022 - Assistant Professor (Maître de Conférences), Université Paris-Dauphine, France
+
+2024 - Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
 
 2021-  Associated Researcher in the Climate Economics Chair, Université Paris-Dauphine, France.
 
