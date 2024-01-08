@@ -14,7 +14,7 @@ Thomas A., Massol O., Sévi B. (2022), How are Day-ahead Prices Informative for 
 WORKING PAPERS
 =====
 
-Bet on a bubble asset? An optimal portfolio allocation strategy (2023), joint work with G. De Truchis (Univ. Orléans), E. Dumistrescu (Univ. Paris 2) and S. Fries (CREST and Vrije Univ).
+Bet on a bubble asset? An optimal portfolio allocation strategy (2023), joint work with G. De Truchis (Univ. Orléans), E. Dumistrescu (Univ. Paris 2) and S. Fries (CREST and Vrije Univ). 
 
 Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market (2023), joint work with Z. Moussa (Univ. Nantes), USAEE Working Paper No. 21-490, Jun. 26, 2023.
 
@@ -26,5 +26,6 @@ Production intermittence in spot electricity markets: a behavioral simulations a
 
 ONGOING WORK
 =====
+
 Learning the predictive density of mixed-causal ARMA processes (2022), joint work with E. Dumistrescu (Univ. Paris 2)
 
