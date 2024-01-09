@@ -18,7 +18,7 @@ Bet on a bubble asset? An optimal portfolio allocation strategy (2023), joint wo
 
 [Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#) (2023), joint work with Z. Moussa (Univ. Nantes), USAEE Working Paper No. 21-490, Jun. 26, 2023.
 
-[Greening aviation: What do we expect from Sustainable Aviation Fuels (SAF) (2023), joint work with P.Bardon and O. Massol (IFP School and City, University of London).
+Greening aviation: What do we expect from Sustainable Aviation Fuels (SAF) (2023), joint work with P.Bardon and O. Massol (IFP School and City, University of London).
 
 [Real-time demand in U.S. natural gas price forecasting: the role of temperature data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880809) (2021), joint work with Z. Moussa (Univ. Nantes) and B. Sévi (Univ. Nantes), USAEE Working Paper No. 21-507, 21 Sep 2021.
 
