@@ -17,13 +17,13 @@ About me
 Employment
 ======
 
-- <b>2022- <b> Assistant Professor (Maître de Conférences), Université Paris-Dauphine PSL, France
+- 2022- Assistant Professor (Maître de Conférences), Université Paris-Dauphine PSL, France
 
-- <b>2024- <b> Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
+- 2024- Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
 
-- <b>2021- <b> Associated Researcher in the Climate Economics Chair, Université Paris-Dauphine, France.
+- 2021- Associated Researcher in the Climate Economics Chair, Université Paris-Dauphine, France.
 
-- <b>2017- <b>   Associated Researcher in the Chair of the Economics of Natural Gas, Paris Dauphine-PSL University, IFP School, Mines Paris Tech-PSL University, and Toulouse School of Economics. The German Institute for Economic Research (DIW).
+- 2017- Associated Researcher in the Chair of the Economics of Natural Gas, Paris Dauphine-PSL University, IFP School, Mines Paris Tech-PSL University, and Toulouse School of Economics. The German Institute for Economic Research (DIW).
 
 
 Education
