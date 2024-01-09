@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
- I am an assistant professor of Econometrics at the [University Paris Dauphine -PSL](https://leda.dauphine.fr). I am also an adjunct researcher at the [Climate Economics Chair](https://www.chaireeconomieduclimat.org). In the 2024 calendar year I will additionally be a visiting professor at the Department of Quantitative Economics at Maastricht University, School of Business and Economics. I work on theoretical and applied econometrics relating to climate change and energy. My main research field lies to time series econometrics (noncausal econometrics) and Machine Learning.
+ I am an Assistant Professor of Econometrics at [University Paris Dauphine - PSL](https://leda.dauphine.fr). I am also an adjunct researcher at the [Chair of Climate Economics](https://www.chaireeconomieduclimat.org). In the calendar year 2024 I will additionally be a visiting professor at the Department of Quantitative Economics at Maastricht University, School of Business and Economics. I work on theoretical and applied econometrics related to climate change and energy. My main research areas are time series econometrics (non-causal econometrics) and machine learning. I organised the [Dauphine Econometrics seminar](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html).
 
 
 Employment
