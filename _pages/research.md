@@ -17,7 +17,7 @@ Working papers
 
 Fries Sébastien, Arthur Thomas (2023). Path prediction of aggregated α-stable moving averages using semi-norm representations. Previous version by Sébastien Fries available [here](https://arxiv.org/abs/1809.03631) 
 
-Gilles De Truchis, Elena Dumitrescu, Sébastien Fries and Arthur Thomas (2023). Bet on a bubble asset? An optimal portfolio allocation strategy (2023). Version available <a href="/files/Bubble_optim.pdf" download="here">
+Gilles De Truchis, Elena Dumitrescu, Sébastien Fries and Arthur Thomas (2023). Bet on a bubble asset? An optimal portfolio allocation strategy (2023). Version available <a href="/files/Bubble_optim.pdf" download="Bubble_optim.pdf">
   here
 </a>
 
@@ -35,5 +35,7 @@ Ongoing works
 Elena Dumitrescu, Arthur Thomas (2023). Learning the predictive density of mixed-causal ARMA processes. 
 
 Zakaria Moussa, Arthur Thomas (2023). Regime Switching for Dynamic EquiCorrelation. 
+
+Marie Bruguet, Arthur Thomas (2023). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption. 
 
 
