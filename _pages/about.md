@@ -17,9 +17,9 @@ About me
 Employment
 ======
 
-- 2022- Assistant Professor (Maître de Conférences), Université Paris-Dauphine PSL, France
+- 2024 Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
 
-- 2024- Visiting Professor, Department of Quantitative Economics at Maastricht University, School of Business and Economics, Netherland
+- 2022- Assistant Professor (Maître de Conférences), Université Paris-Dauphine PSL, France
 
 - 2021- Associated Researcher in the Climate Economics Chair, Université Paris-Dauphine, France.
 
