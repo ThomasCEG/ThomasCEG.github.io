@@ -33,10 +33,10 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 Ongoing works
 =====
 
-Elena Dumitrescu, Arthur Thomas (2023). Learning the predictive density of mixed-causal ARMA processes. 
+Elena Dumitrescu, Arthur Thomas (2024). Learning the predictive density of mixed-causal ARMA processes. 
 
-Zakaria Moussa, Arthur Thomas (2023). Regime Switching for Dynamic EquiCorrelation. 
+Yannick Le Pen, Zakaria Moussa and Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. 
 
-Marie Bruguet, Arthur Thomas (2023). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption. 
+Marie Bruguet, Arthur Thomas (2024). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption. 
 
 
