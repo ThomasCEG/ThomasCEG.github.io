@@ -15,8 +15,8 @@ Working papers
 =====
 
 
-Fries Sébastien, Arthur Thomas and Gilles De Truchis (2024). Path prediction of anticipative alpha-stable moving
-averages using semi-norm representations.
+Gilles De Truchis, Fries Sébastien and Arthur Thomas (2024). Forecasting extreme trajectories using semi-norm
+representations. 
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries and Arthur Thomas (2023). Bet on a bubble asset? An optimal portfolio allocation strategy (2023). Version available <a href="/files/Bubble_optim.pdf" download="Bubble_optim.pdf">
   here
