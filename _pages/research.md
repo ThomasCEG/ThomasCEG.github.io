@@ -15,7 +15,7 @@ Working papers
 =====
 
 
-*Non causal econometrics
+* Non causal econometrics
 
 
 
@@ -35,7 +35,7 @@ Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2023). Bet
 Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jun. 26, 2023.
 
 
-*Energy Economics
+* Energy Economics
 
 
 Marie Bruguet, Ronan Le Saout, Arthur Thomas (2024). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption. Version available <a href="/files/Bruguet_Le_saout_Thomas.pdf" download="Bruguet_Le_saout_Thomas.pdf">
