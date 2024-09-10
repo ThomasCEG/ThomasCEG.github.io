@@ -53,7 +53,7 @@ Ongoing works
 
 Elena Dumitrescu, Arthur Thomas (2024). Learning the predictive density of mixed-causal ARMA processes. 
 
-Yannick Le Pen, Zakaria Moussa and Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. 
+Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. 
 
 
 
