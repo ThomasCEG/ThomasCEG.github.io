@@ -18,17 +18,15 @@ Working papers
 **Non causal econometrics**
 
 
-
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2024). Forecasting extreme trajectories using semi-norm
 representations. Version available <a href="/files/2024_DFT.pdf" download="2024_DFT.pdf">
   here
 </a>
 
-Gilles De Truchis, Fries Sébastien, Arthur Thomas (2024).  Multivariate α-stable moving averages,
-stable aggregates, and path prediction 
 
-
-Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2023). Bet on a bubble asset? An optimal portfolio allocation strategy (2023). Version available <a href="/files/Bubble_optim.pdf" download="Bubble_optim.pdf">
+Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). Version available <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
+  here
+</a> and associated web appendix <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
   here
 </a>
 
@@ -41,7 +39,7 @@ Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Th
 Marie Bruguet, Ronan Le Saout, Arthur Thomas (2024). [Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption](https://www.chaireeconomieduclimat.org/wp-content/uploads/2024/10/WP-2024-05.pdf). *R&R at The Energy Journal* 
 
 
-Paul Bardon, Olivier Massol, Arthur Thomas (2024). Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.  *R&R at Journal of Environmental Management*
+Paul Bardon, Olivier Massol, Arthur Thomas (2024). Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.  *forthcoming at Journal of Environmental Management*
 
 Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. natural gas price forecasting: the role of temperature data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880809), USAEE Working Paper No. 21-507, 21 Sep 2021.
 
@@ -49,6 +47,9 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 
 Ongoing works
 =====
+
+Gilles De Truchis, Fries Sébastien, Arthur Thomas (2024).  Multivariate α-stable moving averages,
+stable aggregates, and path prediction 
 
 Elena Dumitrescu, Arthur Thomas (2024). Learning the predictive density of mixed-causal ARMA processes. 
 
