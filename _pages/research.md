@@ -26,7 +26,7 @@ representations. Version available <a href="/files/2024_DFT.pdf" download="2024_
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). Version available <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
   here
-</a> and associated web appendix <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
+</a> and the associated Web-Appendix <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
   here
 </a>
 
