@@ -36,7 +36,7 @@ Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Th
 **Energy Economics**
 
 
-Marie Bruguet, Arthur Thomas, Ronan Le Saout (2025). </a> <a href="/files/BTL2025_revised.pdf" download="BTL2025_revised.pdf"> [Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption]</a> *R&R at The Energy Journal* 
+Marie Bruguet, Arthur Thomas, Ronan Le Saout (2025). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption <a href="/files/BTL2025_revised.pdf" download="BTL2025_revised.pdf"> [WP paper]</a> *R&R at The Energy Journal* 
 
 
 Paul Bardon, Olivier Massol, Arthur Thomas (2024). Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.  *forthcoming at Journal of Environmental Management*
