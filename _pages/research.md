@@ -23,8 +23,8 @@ Working papers
 **Non causal econometrics**
 
 
-Gilles De Truchis, Fries Sébastien, Arthur Thomas (2024). Forecasting extreme trajectories using semi-norm
-representations. <a href="/files/2024_DFT.pdf" download="2024_DFT.pdf">
+Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
+representations. <a href="/files/DFT_2025.pdf" download="DFT_2025.pdf">
   [paper]
 </a>
 
