@@ -39,6 +39,7 @@ Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Th
 
 **Financial Econometrics**
 
+
 Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. <a href="/files/RSDECO.pdf" download="RSDECO.pdf">
   [paper]
 </a>
