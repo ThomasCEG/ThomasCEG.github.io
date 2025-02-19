@@ -26,7 +26,7 @@ Working papers
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025.pdf" download="DFT_2025.pdf">
   [paper]
-</a>
+</a>  [Working Paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/02/WP-2025-06.pdf)
 
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
