@@ -37,6 +37,11 @@ Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet
 
 Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jun. 26, 2023.
 
+**Financial Econometrics**
+
+Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. <a href="/files/RSDECO.pdf" download="RSDECO.pdf">
+  [paper]
+</a>
 
 **Energy Economics**
 
@@ -56,7 +61,7 @@ stable aggregates, and path prediction
 
 Elena Dumitrescu, Arthur Thomas (2024). Learning the predictive density of mixed-causal ARMA processes. 
 
-Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. 
+
 
 
 
